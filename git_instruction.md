@@ -89,3 +89,11 @@ git diff --stages
 ```
 git diff <file name>
 ```
+## 11. Более подробная инструкция по GIT
+
+![pic1](/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/123.jpg)
+
+Ссылка на учебник:
+
+(https://git-scm.com/book/ru/v2)
+
