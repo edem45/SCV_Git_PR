@@ -97,3 +97,4 @@ git diff <file name>
 
 (https://git-scm.com/book/ru/v2)
 
+![pic1](/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/123.jpg)
