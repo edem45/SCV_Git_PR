@@ -127,7 +127,7 @@ git checkout <первые 5 цифр хеша коммита>
 ```
 git branch <branch_name>
 ```
-2. И также мы получим тот же результат при использовании git checkout с ключом -b:
+2. И также мы получим тот же результат при использоqвании git checkout с ключом -b:
 ```
 git checkout -b <name of branch>
 ```
